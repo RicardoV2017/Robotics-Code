@@ -112,8 +112,6 @@ def belt_stop():
 
     
     
-# Caleb's reference solutions to the software challenge
-
 def next_power(num):
   # YOUR CODE HERE
   power = 1
